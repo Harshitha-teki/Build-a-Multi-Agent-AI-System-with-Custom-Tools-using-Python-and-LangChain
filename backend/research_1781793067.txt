@@ -1,0 +1,1 @@
+[{'query': 'Research background for: string', 'results': {'top': ['result1', 'result2']}}]

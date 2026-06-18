@@ -1,0 +1,9 @@
+.venv/
+venv/
+env/
+.env
+node_modules/
+build/
+dist/
+.vscode/
+__pycache__/
