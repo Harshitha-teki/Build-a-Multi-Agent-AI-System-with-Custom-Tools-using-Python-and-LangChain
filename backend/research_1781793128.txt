@@ -1,0 +1,1 @@
+[{'query': 'Research background for: Analyze these revenue metrics: [23.5, 42.0, 18.9, 91.2] and write a short summary report.', 'results': {'top': ['result1', 'result2']}}]
