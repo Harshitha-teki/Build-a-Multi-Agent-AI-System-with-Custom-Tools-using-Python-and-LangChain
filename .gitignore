@@ -7,3 +7,7 @@ build/
 dist/
 .vscode/
 __pycache__/
+# Local remediation artifacts
+bfg.jar
+repo-mirror.git/
+backend/research_*.txt
